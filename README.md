@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project combines journal abbreviation information from the [PubMed NLM Journal Repository](https://www.ncbi.nlm.nih.gov/nlmcatalog?term=currentlyindexed) as well as from Endnote. It makes citing articles easier by increasing the likelihood that journals you cite will already have abbreviations available with no manual effort.
+This project combines journal abbreviation information from the [PubMed NLM Journal Repository](https://www.ncbi.nlm.nih.gov/nlmcatalog) as well as from Endnote. It makes citing articles easier by increasing the likelihood that journals you cite will already have abbreviations available with no manual effort.
 
 Almost ***60,000*** entries are included, including some punctuation-based journal name variants to increase match likelihood. The EndNote match system is case-insensitive, so no variants are necessary in that regard.
 
